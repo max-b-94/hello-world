@@ -1,3 +1,3 @@
 # hello-world
 Beginner
-Hello world v2 
+Learning to use GitHub. I want to get used to visiting everyday.
